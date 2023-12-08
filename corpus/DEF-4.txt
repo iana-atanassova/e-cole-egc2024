@@ -1,0 +1,77 @@
+"C’est un nombre de  biens que l’on possède, qui ne sont pas encore vendus ou consommés."
+"bien que l’on possède, qui comporte une certaine masse, c’est un élément saisissable, il n’est donc pas virtuel ( ex : des jouets ( marchandise ) d’une entrerpise sont un stock, tant dit qu’un service ne l’ait pas.)"
+"Bien ou matière première dont dispose l’entreprise qui va servir pour la production ou vendu dans l’état."
+"Un stock représente les biens d’une entreprise qui peuvent être destinés à la vente dans le cadre de l’activité de l’entreprise. ex: Un stock de tables ou de bois que l’entreprise vend directement  ( stocks de marchandise et matière premières.) Ou pour être consommés pour créer d'autres biens.  ex: Un stock de bois utilisé pour créer une table ( stocks de produits finis.)"
+"ce sont des biens achetés et entreposés au cas où il y aurait un manque, c’est un effet de «réserve»"
+"Ensemble de biens / matières premières pouvant etre stockés avant d’être vendu en produit fini ou non."
+"Le stock correspond à l'ensemble des produits qu'une entreprise possède, stocké en attendant leurs utilisations ou leurs ventes."
+"ensemble de marchandise disponible"
+"Quantité de marchandise en réserve"
+"Produits restants après une vente."
+"Le stock  correspond à la marchandise entreposé dans le magasin"
+"regroupe l’achat de matières premières qui sont ensuite transformés, le paiement des salaires et la vente des produits fabriqués."
+"durée de l’ensemble des procédés permettant à une entreprise réaliser des bénéfices .(fournisseurs, matières premières,investissement,etc…)"
+"Désigne les opérations nécessaires à la réalisation des activités économiques, commerciales et productives de l’entreprise. Le cycle d’exploitation comprend l'achat de marchandises, le stockage pour aboutir à la vente."
+"cycle d’exploitation est nécessaire à toute entreprise, il regroupe les opérations liées aux activités courantes,, de l’entreprise : approvisionnement, production, vente etc.. on peut dire que c’est un cycle sur le court terme Par exemple pour une entreprise commerciale le cycle d’exploitation va commencer par l’achat de marchandises, fournitures et les vendre tout en les stockant."
+"il se constitue de l’achat de matières, la production et la commercialisation"
+"Période à laquelle un une entreprise effectue son activité économique de l’approvisionnement du stock à la vente ce dernier"
+"Temp entre l'achat des matières premières et le paiement."
+"operation essentiel à la vie de l’entreprise"
+"L’entreprise réalise des activités économiques, commercial et de production c’est ce qu’on appelle le cycle d’exploitation"
+"Il regroupe les ventes des produits + paiement collaborateurs et matières premières."
+"Le cycle d'exploitation correspond au processus de fabrication des matière première s'il y en as, et du matériel"
+"C’est l’ensemble des dettes bancaires et des remboursements."
+"Processus qui consiste à trouver et regrouper un apport financier extérieur aux fondateurs d’une entreprise pour créer le capital de l’organisation.(actionnaire,banques..)"
+"Processus regroupant l'ensemble des opérations financières relatives à l'activité de l'entreprise. Consiste à trouver des capitaux permettant à la fois de financer le court terme (cycle d'exploitation) et le long terme (cycle d'investissement). Ce financement peut être interne ou externe."
+"Le cycle de financement c’est le cycle qui regroupe toutes les opérations financières qui concerne l’activité de l’entreprise on peut dire que le cycle de financement est la contrepartie du cycle d’investissement et de financement car il sert à trouver de l’argent (capitaux) pour les financer."
+"a pour but de trouver des capitaux en cherchant des investisseurs, partenaires ou en demandant des emprunts."
+"Apport de capitaux par les fondateurs de l’entreprise pour le financement des investissements"
+"Regroupe toutes les opérations financières de la société, interne et externe."
+vide
+"L' ensemble des activités financières de l’entreprise"
+"Fonds pour développer l’entreprise"
+"Le cycle de financement correspond aux différents flux monétaire entrant et sortant de l'entreprise"
+"C’est le fait d’acquérir de l’argent ou autres."
+"c’est un processus long qui comporte l’achat( achat d’un local ) et le paiement (les clients ) nécessaire au développement d’une organisation."
+"Correspond aux actions qui accompagnent l’acquisition d’immobilisations (matériel ou immatériel) nécessaire pour l’entreprise. Ces immobilisations peuvent être incorporelles (brevets, licence, marque), corporelles (véhicule, locaux, machine) et financières (investissements). "
+"le cycle d’investissement est le plus souvent utilisé pour des opérations sur le long terme il sert à l'acquisition d’immobilisation (achats de machines par exemple)"
+"achat/acquisition de biens pour l’activité de l’entreprise (brevet, machines...)"
+"Acquisition du matériel à l’entreprise pour son activité"
+"Consiste à l'acquisition de bien qui resteront sur le long terme et qui serviront à l'entreprise pour augmenter ses revenus futur."
+"trouver du financement"
+"L’acquisition des immobilisations qui constitue son outil de travail et le développement de l’entreprise"
+"Fonds monétaires investis par l’entreprise dans l’obtention de machines."
+"Il s'agit de matériel acquis par l'entreprise dont le but est la durabilité de l'équipement sur le long terme en tant qu'outil de travail"
+correspond aux flux entrant ou sortant en terme financiers.
+Règles et principes regroupés dans des document représantifs d’une structure pour des parties extérieures et aux yeux de la loi.
+Une comptabilité obligatoire pour tous agents économiques. Elle permet de mesurer le bénéfice, cela est utile pour les parties externes (Etat, banque, actionnaire) et déterminer le montant de l’impôt. 
+La comptabilité générale sert à faire « l’inventaire » de toute les flux d’argent que l’entreprise pourrait effectuer ça peut être des rentrées d’argent ou des dépenses par exemple 
+"document obligatoire qui valorise l’entreprise auprès des acteurs extérieurs."
+Analyse du cycle d’exploitation d’une Entreprise en se basant sur le bilan des flux entrants et sortant
+"Sert à donner une vue d'ensemble des comptes de l'entreprise, flux financiers entrant et sortant."
+vide
+L’ensemble des flux financiers générés par l’entreprise
+Documents prouvant la bonne volonté de l’entreprise envers les potentiels investisseurs. 
+cette dernière correspond aux différents flux monétaire entrant et sortant de l'entreprise
+reprend le principe de la comptabilité générale sur le long terme (sur l’année, par mois, par trimestre).
+Méthodes,par des calculs permettant une analyse interne pour les dirigeants  d’une entreprise afin de réaliser de la valeur.
+Une comptabilité orientée vers le long terme n’est pas obligatoire mais fortement recommandée. Cela permet d’estimer le coût de production, le volume et le coût du stock. 
+" la comptabilité analytique est utilisée sur le long terme pour donner une vision plus détaillée des flux d’argent d’une entreprise. "
+"documents utilisés en interne pour aider les dirigeants à comprendre pourquoi il y a des difficultés ou non."
+Analyse des résultats permettant la prise des décisions de l’entreprise pour gérer
+"Sert à donner une vision plus détaillée des comptes de chaque activité."
+"documents utilisés en interne pour aider les dirigeants à comprendre pourquoi il y a des difficultés ou non."
+Les activités ou investissement à long terme de l’entreprise
+Analyse du budget pour assurer un bon management pour l’entreprise.
+il s'agit des différents flux internes lié à l'entreprise
+C’est le calcul du bénéfice.
+Tableau des recettes et des dépenses destinés à comparer le budget prévu au budget réalisé. Afin d’observer les troubles et d’améliorer la gestion de l’entreprise.
+Tableau permettant de visualiser les entrées et sorties financières faites par l’entreprise (recettes, dépenses) et voir si cela est conformes aux estimations. 
+Cette comptabilité a pour but de faire des prévisions sur le budget d’une structure en prenant en compte ce qui a été réalisé avant pour essayer d’avoir des prévisions réalistes de ce budget dans les prochaines années.
+"a pour but d’établir un budget et de le répartir dans différents types d’achat."
+Sans bilan, elle n’analyse que les dépenses et les recettes de l’entreprise.
+"Analyse de l'année passé pour définir les previsions budgétaires pour l'année prochaine."
+calcul du bénéfices
+Les recettes ou déficits fait par l’entreprise
+Etablir un budget avec les recettes et dépenses de l’entreprise
+cette dernière prend en compte la différence lié entre les bénéfices et les différentes charges réalisée sur l'année

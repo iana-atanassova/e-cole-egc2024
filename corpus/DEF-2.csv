@@ -1,0 +1,136 @@
+terme,chatgpt,equivalence,possession,but,autre_relation,texte,notes
+Bilan,T,F,F,F,F,"Document comptable qui présente le patrimoine de l'entreprise à un moment donné.",présentation?
+Bilan,T,T,F,F,F,"Le bilan est composé de deux parties, l'actif et le passif, qui doivent être équilibrées.",F
+Bilan,T,F,F,T,F,"Le bilan permet de connaître la situation financière de l'entreprise à un instant T.",F
+Capitaux propres,T,F,F,F,action,"Ensemble des ressources financières apportées par les actionnaires ou les associés à l'entreprise.",F
+Capitaux propres,T,T,F,F,F,"Les capitaux propres se composent du capital social, des réserves, des bénéfices non distribués, etc.",F
+Capitaux propres,T,T,F,F,F,"Les capitaux propres sont une source de financement stable pour l'entreprise.",F
+Charges,T,F,F,F,action,"Dépenses engagées par l'entreprise pour son activité.",F
+Charges,T,F,F,F,connection,"Les charges peuvent être liées aux achats, aux salaires, aux frais généraux, etc.",F
+Charges,T,F,F,F,enregistrement,"Les charges sont enregistrées dans le compte de résultat.",F
+Compte de résultat,T,F,F,F,action,"Document comptable qui présente le résultat de l'entreprise sur une période donnée.",F
+Compte de résultat,T,F,F,F,action,"Le compte de résultat présente les produits et les charges de l'entreprise et détermine son bénéfice ou sa perte.",F
+Compte de résultat,T,F,F,T,F,"Le compte de résultat permet d'évaluer la rentabilité de l'entreprise.",F
+Créances,T,F,F,F,droit,"Montant d'argent que l'entreprise a le droit de recevoir de ses clients ou de ses partenaires.",but ou droit?
+Créances,T,T,F,F,F,"Les créances sont des actifs à court terme pour l'entreprise.",F
+Créances,T,T,F,F,enregistrement,"Les créances sont enregistrées dans le bilan de l'entreprise.",F
+Dépréciation,T,F,F,F,explication,"Perte de valeur d'un actif immobilisé du fait de l'usure, de l'obsolescence ou d'autres facteurs.",F
+Dépréciation,T,F,F,F,enregistrement,"La dépréciation est enregistrée en charges dans le compte de résultat.",F
+Dépréciation,T,F,F,T,F,"La dépréciation permet de refléter la valeur réelle des actifs de l'entreprise.",permet = but? 
+EBITDA,T,F,F,F,F,"Acronyme pour « Earnings Before Interest, Taxes, Depreciation and Amortization ».",F
+EBITDA,T,F,F,F,action,"Indicateur financier qui mesure le bénéfice d'exploitation de l'entreprise avant déduction des intérêts, des impôts, de l'amortissement et de la dépréciation.",but ?
+EBITDA,T,F,F,T,F,"L'EBITDA est utilisé pour évaluer la performance financière de l'entreprise.",but ? 
+Exercice comptable,T,F,F,F,interaction,"Période de temps pendant laquelle l'entreprise tient sa comptabilité.",F
+Exercice comptable,T,F,F,F,informations_supplémentaires,"La durée de l'exercice comptable peut varier d'une entreprise à l'autre.",F
+Exercice comptable,T,F,F,T,F,"L'exercice comptable permet de déterminer le bénéfice ou la perte de l'entreprise sur une période donnée."permet = but ?
+Facture,T,F,F,F,F,"Document comptable qui atteste d'une vente ou d'une prestation de services.",F
+Facture,T,T,F,F,F,"La facture comporte des informations telles que la date, le montant, les conditions de paiement, etc.",F
+Facture,T,F,F,F,utilisation,"La facture est utilisée comme preuve comptable et fiscale.",equivalence ou utilisation? 
+Fonds de roulement,T,F,F,F,relation,"Différence entre les actifs circulants (liquidités, créances) et les passifs circulants (dettes à court terme).",F
+Fonds de roulement,T,F,F,T,F,"Le fonds de roulement permet à l'entreprise de faire face à ses échéances à court terme.",F
+Fonds de roulement,T,F,F,F,action,"Un fonds de roulement insuffisant peut mettre en danger la trésorerie de l'entreprise.",F
+Frais généraux,T,F,F,F,restriction,"Ensemble des dépenses liées à l'activité de l'entreprise qui ne peuvent être directement imputées à un produit ou à un service.",F
+Frais généraux,T,T,F,F,F,"Les frais généraux comprennent les loyers, les charges sociales, les assurances, etc.",F
+Frais généraux,T,F,F,F,enregistrement,"Les frais généraux sont enregistrés en charges dans le compte de résultat.",F
+Immobilisations,T,F,T,T,F,"Ensemble des biens et droits que l'entreprise détient en vue de son exploitation à long terme.",F
+Immobilisations,T,F,F,F,informations_supplémentaires,"Les immobilisations peuvent être corporelles (bâtiments, équipements) ou incorporelles (brevets, marques)."
+Immobilisations,T,F,F,F,enregistrement,"Les immobilisations sont enregistrées à l'actif du bilan."
+Impôts,T,F,F,F,action,"Prélèvements obligatoires effectués par l'Etat sur les bénéfices et les revenus de l'entreprise."
+Impôts,T,F,F,F,informations_supplémentaires,"Les impôts peuvent prendre différentes formes, telles que l'impôt sur les sociétés, la TVA, etc.",équivalence? 
+Impôts,T,F,F,F,enregistrement,"Les impôts sont enregistrés en charges dans le compte de résultat.",forme d'équivalence ? 
+Inventaire,T,F,F,F,F,"L'inventaire permet de déterminer la valeur des stocks et de vérifier leur conformité avec les enregistrements comptables.",F
+Inventaire,T,F,F,T,F,"Opération qui consiste à recenser et à évaluer les stocks de l'entreprise à une date donnée.", consiste à = but ou équivalence? 
+Inventaire,T,T,F,F,nécessité,"L'inventaire est une opération obligatoire à la fin de chaque exercice comptable.",nécessité ?
+Journal,T,F,F,F,action,"Registre comptable qui enregistre chronologiquement toutes les opérations de l'entreprise.",F
+Journal,T,T,F,F,F,"Le journal est composé de lignes qui comportent les informations relatives aux opérations (date, libellé, montant, etc.).",F
+Journal,T,F,F,T,F,"Le journal permet de retracer toutes les opérations comptables de l'entreprise.",F
+Libellé,T,F,F,F,F,"Description succincte de l'opération comptable effectuée.",F
+Libellé,T,F,F,T,F,"Le libellé permet de comprendre l'objet de l'opération et de la retracer dans les comptes.",F
+Libellé,T,F,F,F,nécessité,"Le libellé doit être précis et correspondre à la réalité de l'opération.",F
+Liquidités,T,F,F,F,informations_supplémentaires,"Ensemble des ressources financières immédiatement disponibles pour l'entreprise (espèces, comptes bancaires).",but? 
+Liquidités,T,F,F,T,F,"Les liquidités permettent à l'entreprise de faire face à ses dépenses à court terme."
+Liquidités,T,F,F,F,enregistrement,"Les liquidités sont enregistrées à l'actif du bilan."
+Marge brute,T,F,F,F,F,"Différence entre le chiffre d'affaires et le coût des ventes."
+Marge brute,T,F,F,T,F,"La marge brute permet de mesurer la rentabilité de l'activité de l'entreprise."
+Marge brute,T,T,F,F,F,"La marge brute est un indicateur important pour évaluer la performance commerciale de l'entreprise."
+Matières premières,T,F,F,T,F,"Biens utilisés par l'entreprise pour fabriquer ses produits ou fournir ses services."
+Matières premières,T,F,F,T,informations_supplémentaires,"Les matières premières peuvent être des matières premières physiques (métaux, tissus) ou des matières premières intellectuelles (logiciels, brevets).",équivalence?
+Matières premières,T,F,F,F,enregistrement,"Les matières premières sont enregistrées à l'actif du bilan.",F
+Net,T,F,F,F,action,"Montant d'une opération comptable une fois les déductions effectuées.",?
+Net,T,F,F,F,informations_supplémentaires,"Le net peut correspondre au montant d'une facture après déduction de la TVA ou des remises.",équivalence?
+Net,T,F,F,T,F,"Le net est utilisé pour calculer les différents impôts et taxes."
+Note de frais,T,F,F,F,attestation,"Document qui atteste des dépenses engagées par un salarié dans le cadre de sa mission professionnelle."
+Note de frais,T,F,F,F,nécessité,"La note de frais doit être justifiée par des pièces justificatives (factures, tickets de caisse, etc.)."
+Note de frais,T,F,F,F,but,"La note de frais est utilisée pour rembourser le salarié des frais qu'il a engagés."
+Obligations,T,T,F,F,F,"Titres financiers émis par une entreprise ou une institution qui représentent une dette à rembourser à une échéance donnée."
+Obligations,T,F,F,F,informations_supplémentaires,"Les obligations peuvent être émises avec un taux d'intérêt fixe ou variable."
+Obligations,T,F,F,F,enregistrement,"Les obligations sont enregistrées au passif du bilan.",?je ne comprends pas la définition
+Opérations courantes,T,F,F,F,informations_supplémentaires,"Opérations de l'entreprise qui sont réalisées dans le cadre de son activité principale."
+Opérations courantes,T,T,F,F,F,"Les opérations courantes comprennent les ventes, les achats, les salaires, les charges sociales, etc."
+Opérations courantes,T,F,F,F,enregistrement,"Les opérations courantes sont enregistrées dans les comptes de charges et de produits."
+Plan comptable,T,F,F,T,F,"Liste des comptes utilisés par l'entreprise pour enregistrer ses opérations comptables."
+Plan comptable,T,F,F,T,F,"Le plan comptable permet d'organiser et de classer les opérations de l'entreprise."
+Plan comptable,T,F,F,F,nécessité,"Le plan comptable doit être adapté à l'activité de l'entreprise."
+Produits,T,F,F,F,résultat,"Ensemble des revenus générés par l'activité de l'entreprise."
+Produits,T,F,F,F,informations_supplémentaires,"Les produits peuvent être issus des ventes, des prestations de services, des intérêts, etc."
+Produits,T,F,F,F,enregistrement,"Les produits sont enregistrés dans les comptes de produits du compte de résultat.",F
+Provision,T,F,F,F,F,"Comptabilisation d'une charge ou d'une perte prévisible, sans qu'elle soit encore effectivement constatée."
+Provision,T,F,F,T,F,"La provision permet de prendre en compte les risques liés à l'activité de l'entreprise.",but?
+Provision,T,F,F,F,enregistrement,"La provision est enregistrée en charges dans le compte de résultat.",F
+Résultat net,T,F,F,F,F,"Différence entre les produits et les charges de l'entreprise, après déduction des impôts et des autres charges.",différence
+Résultat net,T,F,F,T,F,"Le résultat net permet de mesurer la rentabilité de l'entreprise."
+Résultat net,T,F,F,F,enregistrement,"Le résultat net est enregistré au passif du bilan.",équivalence?
+Salaires,T,F,F,F,action,"Rémunération versée aux salariés de l'entreprise."
+Salaires,T,T,F,F,informations_supplémentaires,"Les salaires peuvent être composés d'un salaire de base, de primes, de bonus, etc."
+Salaires,T,T,F,F,enregistrement,"Les salaires sont enregistrés dans les comptes de charges."
+Stock,T,F,T,T,F,"Ensemble des biens détenus par l'entreprise en vue de leur revente ou de leur utilisation future."
+Stock,T,T,F,F,F,"Les stocks peuvent être des matières premières, des produits finis ou en cours de fabrication."
+Stock,T,F,F,F,enregistrement,"Les stocks sont enregistrés à l'actif du bilan.",enregistrés = ?
+Subvention,T,F,F,F,action,"Aide financière accordée à l'entreprise par l'Etat ou une autre institution."
+Subvention,T,F,F,T,F,"La subvention peut être destinée à financer un projet spécifique ou à soutenir l'activité de l'entreprise."
+Subvention,T,F,F,F,enregistrement,"La subvention est enregistrée en produits dans le compte de résultat."
+Taxe sur la valeur ajoutée (TVA),T,F,F,F,F,"Impôt indirect sur la consommation."
+Taxe sur la valeur ajoutée (TVA),T,F,F,F,action,"La TVA est prélevée à chaque étape de la production ou de la distribution des biens ou des services."
+Taxe sur la valeur ajoutée (TVA),T,F,F,F,enregistrement,"La TVA est enregistrée en tant que charge pour l'entreprise et en tant que produit pour l'Etat."
+Titres,T,F,F,F,action,"Valeurs mobilières émises par une entreprise ou une institution."
+Titres,T,T,F,F,F,"Les titres peuvent être des actions, des obligations, des parts sociales, etc."
+Titres,T,F,F,F,enregistrement,"Les titres sont enregistrés à l'actif du bilan."
+Valeur ajoutée,T,F,F,F,relation,"Différence entre la valeur des biens et des services produits par l'entreprise et la valeur des biens et des services utilisés par l'entreprise pour produire ces biens et services."
+Valeur ajoutée,T,F,F,T,F,"La valeur ajoutée permet de mesurer la contribution de l'entreprise à l'économie."
+Valeur ajoutée,T,F,F,F,enregistement,"La valeur ajoutée est enregistrée dans le compte de résultat."
+Virement,T,F,F,F,action,"Transfert d'une somme d'un compte bancaire à un autre compte bancaire."
+Virement,T,F,F,F,informations_supplémentaires,"Le virement peut être effectué entre des comptes de l'entreprise ou entre des comptes d'entités différentes."
+Virement,T,F,F,F,enregistrement,"Le virement est enregistré dans les comptes bancaires de l'entreprise."
+TVA déductible,T,F,F,F,informations_supplémentaires,"TVA payée par l'entreprise lors de ses achats et qui peut être déduite de la TVA collectée lors de ses ventes."
+TVA déductible,T,F,F,T,F,"La TVA déductible permet de neutraliser l'impact de la TVA sur les prix de revient."
+TVA déductible,T,F,F,F,enregistrement,"La TVA déductible est enregistrée dans les comptes de TVA."
+TVA collectée,T,F,F,F,F,"TVA facturée par l'entreprise à ses clients lors de ses ventes."
+TVA collectée,T,F,F,F,action,"La TVA collectée est reversée à l'Etat."
+TVA collectée,T,F,F,F,enregistrement,"La TVA collectée est enregistrée dans les comptes de TVA."
+VNC (Valeur Nette Comptable),T,T,F,F,F,"Valeur comptable d'un actif, c'est-à-dire sa valeur d'acquisition diminuée de ses amortissements cumulés."
+VNC (Valeur Nette Comptable),T,F,F,T,F,"La VNC permet de calculer la plus-value ou la moins-value en cas de cession de l'actif."
+VNC (Valeur Nette Comptable),T,F,F,F,enregistrement,"La VNC est enregistrée à l'actif du bilan."
+VMP (Valeur de Marché Prévisible),T,F,F,F,F,"Estimation de la valeur marchande d'un actif à une date donnée."
+VMP (Valeur de Marché Prévisible),T,F,F,F,calcul,"La VMP est calculée en fonction de l'offre et de la demande sur le marché."
+VMP (Valeur de Marché Prévisible),T,F,F,F,informations_supplémentaires,"La VMP peut être différente de la VNC."
+Valeur résiduelle,T,F,F,F,F,"Valeur estimée d'un actif à la fin de sa durée de vie utile."
+Valeur résiduelle,T,F,F,T,F,"La valeur résiduelle est utilisée pour calculer les amortissements."
+Valeur résiduelle,T,F,F,F,enregistrement,"La valeur résiduelle est enregistrée à l'actif du bilan."
+Variation de stocks,T,F,F,F,relation,"Différence entre la valeur des stocks à la clôture et la valeur des stocks à l'ouverture de la période."
+Variation de stocks,T,F,F,F,conséquence,"La variation de stocks peut avoir un impact sur le résultat de l'entreprise."
+Variation de stocks,T,F,F,F,enregistrement,"La variation de stocks est enregistrée dans le compte de résultat."
+Variation de trésorerie,T,F,F,F,relation,"Différence entre les flux de trésorerie entrants et les flux de trésorerie sortants sur une période donnée."
+Variation de trésorerie,T,F,F,T,F,"La variation de trésorerie permet de mesurer la capacité de l'entreprise à générer de la trésorerie."
+Variation de trésorerie,T,F,F,F,enregistrement,"La variation de trésorerie est enregistrée dans les comptes de trésorerie."
+Vente à crédit,T,F,F,F,F,"Vente d'un bien ou d'un service avec une échéance de paiement différée."
+Vente à crédit,T,F,F,F,conséquence,"La vente à crédit peut engendrer un risque de non-paiement pour l'entreprise."
+Vente à crédit,T,F,F,F,enregistrement,"La vente à crédit est enregistrée en tant que produit dans le compte de résultat."
+Versement anticipé,T,F,F,F,F,"Paiement effectué par un client avant la livraison d'un bien ou d'un service."
+Versement anticipé,T,F,F,T,F,"Le versement anticipé peut permettre à l'entreprise de financer ses activités à court terme."
+Versement anticipé,T,F,F,F,enregistrement,"Le versement anticipé est enregistré en tant que produit dans le compte de résultat."
+VNC (Valeur Nette Comptable),T,T,F,F,F,"Valeur comptable d'un actif, c'est-à-dire sa valeur d'acquisition diminuée de ses amortissements cumulés."
+VNC (Valeur Nette Comptable),T,F,F,T,F,"La VNC permet de calculer la plus-value ou la moins-value en cas de cession de l'actif."
+VNC (Valeur Nette Comptable),T,F,F,F,enregistrement,"La VNC est enregistrée à l'actif du bilan."
+Zone franche,T,F,F,F,F,"Zone géographique où les entreprises bénéficient d'avantages fiscaux et douaniers."
+Zone franche,T,F,F,F,F,"Les avantages peuvent être des exonérations de taxes, de droits de douane, etc."
+Zone franche,T,F,F,F,enregistrement,"Les avantages de la zone franche sont enregistrés dans les comptes de charges et de produits."
