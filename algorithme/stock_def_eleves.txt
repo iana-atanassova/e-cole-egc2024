@@ -1,0 +1,12 @@
+C’est un nombre de  biens que l’on possède, qui ne sont pas encore vendus ou consommés.
+bien que l’on possède, qui comporte une certaine masse, c’est un élément saisissable, il n’est donc pas virtuel ( ex : des jouets ( marchandise ) d’une entrerpise sont un stock, tant dit qu’un service ne l’ait pas.)
+Bien ou matière première dont dispose l’entreprise qui va servir pour la production ou vendu dans l’état.  
+Un stock représente les biens d’une entreprise qui peuvent être destinés à la vente dans le cadre de l’activité de l’entreprise. ex: Un stock de tables ou de bois que l’entreprise vend directement  ( stocks de marchandise et matière premières.) Ou pour être consommés pour créer d'autres biens. ex: Un stock de bois utilisé pour créer une table ( stocks de produits finis.)
+ce sont des biens achetés et entreposés au cas où il y aurait un manque, c’est un effet de «réserve»
+Ensemble de biens / matières premières pouvant etre stockés avant d’être vendu en produit fini ou non.
+Le stock correspond à l'ensemble des produits qu'une entreprise possède, stocké en attendant leurs utilisations ou leurs ventes.
+ensemble de marchandise disponible
+Quantité de marchandise en réserve
+Produits restants après une vente.
+Le stock  correspond à la marchandise entreposé dans le magasin
+Un stock correspond à des biens restants après une vente 
